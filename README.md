@@ -109,7 +109,7 @@ A Jetpack Compose Android app that helps users log and track pregnancy vitals su
 ### Screenshots & App Demo Video:
 
 (Will upload these soon.)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nud2Le5g58A)
 ---
 
 ### License
